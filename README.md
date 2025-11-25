@@ -1,88 +1,161 @@
-<!-- ======= HEADER ======= -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Khaliq+Hussain+👋;Full+Stack+Developer+%7C+Mobile+Developer;DevOps+Enthusiast+%7C+Cybersecurity+Learner;Welcome+to+my+GitHub+Profile!" />
-</div>
+# README.md (Hybrid — Dark header + Clean body)
+
+> **File:** `README.md` — Copy this into the repo `khaliqhussainn/khaliqhussainn/README.md`
 
 ---
 
-# 💫 About Me:
-💻 Full-Stack Developer & Mobile App Developer with 3+ years of experience building production-ready applications using **MERN, Next.js, React Native, Flutter, Node.js** and modern DevOps tools.  
-📱 Skilled in Android/iOS development and system support (SAP) with hands-on experience in business analysis.  
-🚀 Passionate about scalable systems, automation, cloud solutions, and cybersecurity.  
-🤝 Always open to collaborations on full-stack apps, security tools, automation workflows & open-source.
+<p align="center">
+  <img src="/mnt/data/c456ebf0-ad7e-4aef-b6fb-56bd12acc646.png" alt="header image" width="900"/>
+</p>
+
+<h1 align="center">Hi, I'm <span style="color:#4e9af1;">Khaliq Hussain</span> 👋</h1>
+<h3 align="center">Full Stack Developer • DevOps • Cybersecurity Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4E9AF1&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Apps+%26+Tools;MERN+•+React+Native+•+DevOps+•+Security" />
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khaliquehussain7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khaliqhussain_/)
+## 💫 About Me
+
+**Full-Stack Developer** with 3+ years building real-world applications. I work across frontend, backend, mobile, and DevOps — with hands-on experience in MERN, Next.js, React Native, Flutter, Node.js, CI/CD, Docker, and cloud deployments. I also perform System Support & Business Analysis on SAP-based platforms.
+
+I enjoy shipping clean, maintainable code and building tools focused on automation, developer experience, and security.
 
 ---
 
-# 💻 Tech Stack:
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## 🔗 Socials
 
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Mobile:**  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Tools / Cloud / DevOps:**  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <a href="https://github.com/khaliqhussainn"><img src="https://skillicons.dev/icons?i=github" height="36"/></a>
+  <a href="https://www.linkedin.com/in/khaliqhussainn"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
+  <a href="https://www.instagram.com/khaliqhussain_/"><img src="https://skillicons.dev/icons?i=instagram" height="36"/></a>
+  <a href="mailto:khaliq.workmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khaliqhussainn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=khaliqhussainn&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaliqhussainn&theme=tokyonight&hide_border=false&layout=compact)
+## 🚀 Tech Stack (Grid)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,python,java,tailwind,html,css,postgres,mysql,mongodb,redis,aws,docker,kubernetes,github,git,linux" />
+</p>
 
 ---
 
-# 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=khaliqhussainn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=5)
+## 📊 Live Stats
+
+> These images are externally generated; ensure your username (`khaliqhussainn`) is correct.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaliqhussainn&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaliqhussainn&layout=compact&theme=tokyonight" height="120"/>
+</p>
+
+> **Note:** If any of these fail to render on GitHub, either your username is misspelled or the service is rate-limited. The workflows below will help refresh caches.
 
 ---
 
-# 📈 Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=tokyo-night)
+## 📈 Profile Activity & Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=tokyo-night" alt="activity graph"/>
+</p>
 
 ---
 
-# 👀 Profile Views:
-![](https://visitcount.itsvg.in/api?id=khaliqhussainn&label=Profile%20Views&color=6&icon=0)
+## 🏆 Achievements
+
+* Built multiple production full-stack apps and mobile apps.
+* Designed and shipped DevOps pipelines using GitHub Actions, Docker, and Vercel.
+* Implemented security-focused features and small cybersecurity utilities.
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects (Project Cards)
 
-### ✨ *Thanks for visiting my GitHub profile — feel free to connect or collaborate!* ✨
+<!-- PROJECT-CARDS:START -->
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**PrepNotes – AI Study App**
+*Full-stack Expo + Express + Prisma*
+[View Repo](https://github.com/khaliqhussainn/PrepNotes)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliqhussainn&repo=PrepNotes&theme=tokyonight" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+**SignFlow – Digital Signature**
+*Next.js secure PDF signing platform*
+[View Repo](https://github.com/khaliqhussainn/SignFlow)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliqhussainn&repo=SignFlow&theme=tokyonight" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**EagleEyeSecurity – Cyber Tools**
+*Network & security tools suite*
+[View Repo](https://github.com/khaliqhussainn/EagleEyeSecurity)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliqhussainn&repo=EagleEyeSecurity&theme=tokyonight" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+**Resin Shop – Next.js E‑Commerce**
+*Next.js + Stripe shop demo*
+[View Repo](https://github.com/khaliqhussainn/resin-shop)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliqhussainn&repo=resin-shop&theme=tokyonight" />
+</p>
+
+</td>
+</tr>
+</table>
+<!-- PROJECT-CARDS:END -->
+
+---
+
+## 🆕 Latest Projects (Auto-updated)
+
+Add this block where you want the auto-updater to inject project list:
+
+```
+<!-- PROJECT-LIST:START -->
+<!-- PROJECT-LIST:END -->
+```
+
+---
+
+## 📝 Latest Activity (Auto-updated)
+
+Add this block where you want GitHub Activity readme to insert data:
+
+```
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+```
+
+Good luck — the files are in this document. If you want I can also produce a light-theme variant or create a custom animated PNG header specifically for you.
