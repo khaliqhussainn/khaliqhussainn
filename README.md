@@ -1,161 +1,96 @@
-# README.md (Hybrid — Dark header + Clean body)
-
-> **File:** `README.md` — Copy this into the repo `khaliqhussainn/khaliqhussainn/README.md`
-
----
-
+<!-- Animated Header Banner -->
 <p align="center">
-  <img src="/mnt/data/c456ebf0-ad7e-4aef-b6fb-56bd12acc646.png" alt="header image" width="900"/>
+  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#4e9af1;">Khaliq Hussain</span> 👋</h1>
-<h3 align="center">Full Stack Developer • DevOps • Cybersecurity Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4E9AF1&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Apps+%26+Tools;MERN+•+React+Native+•+DevOps+•+Security" />
-</p>
+<h1 align="center">Hi 👋, I'm Khaliq Hussain</h1>
+<h3 align="center">Full Stack • App Developer • Web3 • Cloud • Cybersecurity</h3>
 
 ---
 
-## 💫 About Me
-
-**Full-Stack Developer** with 3+ years building real-world applications. I work across frontend, backend, mobile, and DevOps — with hands-on experience in MERN, Next.js, React Native, Flutter, Node.js, CI/CD, Docker, and cloud deployments. I also perform System Support & Business Analysis on SAP-based platforms.
-
-I enjoy shipping clean, maintainable code and building tools focused on automation, developer experience, and security.
+## 🚀 **About Me**
+💡 Full Stack & App Developer from India  
+🛠 Building production-level apps using **Next.js, React Native, Web3, Express, Prisma, PostgreSQL, Docker**  
+🔐 Exploring **Cloud, DevOps, Cybersecurity**  
+📌 Currently working on **PrepNotes App (Major Project)**  
+🔥 Always learning, building, and shipping!
 
 ---
 
-## 🔗 Socials
-
-<p align="center">
-  <a href="https://github.com/khaliqhussainn"><img src="https://skillicons.dev/icons?i=github" height="36"/></a>
-  <a href="https://www.linkedin.com/in/khaliqhussainn"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
-  <a href="https://www.instagram.com/khaliqhussain_/"><img src="https://skillicons.dev/icons?i=instagram" height="36"/></a>
-  <a href="mailto:khaliq.workmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
+## 🌐 **Connect With Me**
+<p align="left">
+  <a href="https://linkedin.com/in/khaliqhussainn"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:khaliqhussainn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/khaliqhussainn"><img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 Tech Stack (Grid)
-
+# ⚙️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,python,java,tailwind,html,css,postgres,mysql,mongodb,redis,aws,docker,kubernetes,github,git,linux" />
+  <img height="50" src="https://skillicons.dev/icons?i=nextjs,react,expo,tailwind,ts,js,nodejs,express,prisma,postgres,mongodb,docker,github,cloudflare,aws,vercel" />
 </p>
 
 ---
 
-## 📊 Live Stats
+# 📌 **Featured Projects**  
+(Automatically updates using your workflow)
 
-> These images are externally generated; ensure your username (`khaliqhussainn`) is correct.
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaliqhussainn&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaliqhussainn&layout=compact&theme=tokyonight" height="120"/>
-</p>
-
-> **Note:** If any of these fail to render on GitHub, either your username is misspelled or the service is rate-limited. The workflows below will help refresh caches.
+### 🔥 Latest Projects  
+<!-- LATEST_PROJECTS_START -->
+⏳ Loading latest projects...
+<!-- LATEST_PROJECTS_END -->
 
 ---
 
-## 📈 Profile Activity & Contribution Graph
+# 📊 **GitHub Stats (Auto-updated)**  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=tokyo-night" alt="activity graph"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=tokyonight" height="170"/>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=khaliqhussainn&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🏆 Achievements
-
-* Built multiple production full-stack apps and mobile apps.
-* Designed and shipped DevOps pipelines using GitHub Actions, Docker, and Vercel.
-* Implemented security-focused features and small cybersecurity utilities.
+# 📈 **Contribution Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=react-dark&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 🚀 Featured Projects (Project Cards)
+# 📝 **Latest GitHub Activity**
+(Automatically updated every 30 minutes)
 
-<!-- PROJECT-CARDS:START -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**PrepNotes – AI Study App**
-*Full-stack Expo + Express + Prisma*
-[View Repo](https://github.com/khaliqhussainn/PrepNotes)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliqhussainn&repo=PrepNotes&theme=tokyonight" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-**SignFlow – Digital Signature**
-*Next.js secure PDF signing platform*
-[View Repo](https://github.com/khaliqhussainn/SignFlow)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliqhussainn&repo=SignFlow&theme=tokyonight" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-**EagleEyeSecurity – Cyber Tools**
-*Network & security tools suite*
-[View Repo](https://github.com/khaliqhussainn/EagleEyeSecurity)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliqhussainn&repo=EagleEyeSecurity&theme=tokyonight" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-**Resin Shop – Next.js E‑Commerce**
-*Next.js + Stripe shop demo*
-[View Repo](https://github.com/khaliqhussainn/resin-shop)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliqhussainn&repo=resin-shop&theme=tokyonight" />
-</p>
-
-</td>
-</tr>
-</table>
-<!-- PROJECT-CARDS:END -->
+<!-- LATEST_ACTIVITY_START -->
+⏳ Fetching recent activity...
+<!-- LATEST_ACTIVITY_END -->
 
 ---
 
-## 🆕 Latest Projects (Auto-updated)
-
-Add this block where you want the auto-updater to inject project list:
-
-```
-<!-- PROJECT-LIST:START -->
-<!-- PROJECT-LIST:END -->
-```
+# 🏆 **Achievements**
+- 🚀 Built multiple production-level apps  
+- 🔥 Active Open Source Contributor  
+- 🌎 Full Stack, Web3 & Cloud Projects  
+- ⭐ Continuous Learner  
 
 ---
 
-## 📝 Latest Activity (Auto-updated)
+## 🧩 Fun Fact
+✨ I turn **ideas into production-ready apps**.
 
-Add this block where you want GitHub Activity readme to insert data:
+---
 
-```
-<!-- ACTIVITY:START -->
-<!-- ACTIVITY:END -->
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/animated-dev.gif" width="400px">
+</p>
 
-Good luck — the files are in this document. If you want I can also produce a light-theme variant or create a custom animated PNG header specifically for you.
+---
+
+### 🎯 **Thank you for visiting!**
+⭐ Feel free to **star** my repositories and follow my work!
+
