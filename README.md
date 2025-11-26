@@ -1,18 +1,6 @@
 <div align="center">
-  <img src="./header-bg.png" width="100%" alt="Cyber Security Header" />
+  <img src="./header.svg" width="100%" alt="Header Banner" />
 </div>
-
-<h1 align="center">Hi 👋, I'm <strong>Syed Khaliq Hussain</strong></h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+%E2%80%A2+DevOps+%E2%80%A2+Cybersecurity;Turning+caffeine+into+code..." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <i>“Write code like poetry, deploy like chaos, debug like Sherlock.”</i>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/khaliqhussainn">
@@ -21,22 +9,21 @@
   <a href="mailto:khaliqhussainn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://github.com/khaliqhussainn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-
+# 🚀 About Me
 > 💡 **Full Stack Web & App Developer** building production-grade apps using **Next.js, React Native, & Web3**.  
 > 🔐 Exploring **SAP, Cloud, Cybersecurity, & DevOps**.  
 > ⚡ *Half of my life is waiting for “npm install”*
 
 ---
 
-## 🛠 Tech Stack
+# ⚙️ Tech Stack
 
 <div align="center">
 
@@ -52,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160"/>
   <img src="https://streak-stats.demolab.com?user=khaliqhussainn&theme=radical&hide_border=true&background=0d1117" height="160"/>
@@ -66,12 +53,12 @@
 
 ---
 
-## 🌟 Professional Highlights & Achievements
+# 🏆 Highlights & Building
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🏆 Achievements</h3>
+      <h3>🌟 Achievements</h3>
       <ul>
         <li>🎯 Built production apps used by real users</li>
         <li>🧩 Experienced in full-stack, DevOps, mobile & Web3</li>
@@ -92,7 +79,7 @@
 
 ---
 
-## 🎓 Certifications
+# 🎓 Certifications
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -103,7 +90,7 @@
 
 ---
 
-## ⚡ Developer Traits
+# ⚡ Developer Traits
 
 <div align="center">
 
@@ -119,7 +106,7 @@
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 <p align="center">
   <br>
   <i>Thanks for scrolling — you're officially a real one 😎</i>
