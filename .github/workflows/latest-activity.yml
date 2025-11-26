@@ -14,9 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update GitHub activity section
-        uses: JamesIves/github-activity-readme@v0.3.0
+      - name: Generate GitHub Activity
+        uses: JamesIves/github-profile-activity-generator@v0.3.2
         with:
-          COMMIT_MSG: "🔄 Update latest activity"
           MAX_LINES: 10
-          ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MSG: "🔄 Update latest activity"
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
