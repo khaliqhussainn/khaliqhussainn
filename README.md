@@ -1,140 +1,109 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/banner.gif" width="100%" />
-</p>
+# 👋 Hey, I'm **Khaliq Hussain**
 
-<h1 align="center" style="font-size: 38px; font-weight: 900;">
-  Hi 👋, I'm <span style="color:#00E5FF;">Syed Khaliq Hussain</span>
-</h1>
+### Full Stack Web • App • Web3 Developer
 
-<h2 align="center" style="font-weight: 500;">
-  Full Stack Developer • Web3 • DevOps • Cybersecurity
-</h2>
-
-<p align="center">
-  <a href="https://khaliqhussain.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+> Building cool things on the internet while pretending I have everything under control. 😌
+> Also yes, I fix bugs I definitely did not create.
 
 ---
 
-<!-- ========================================================= -->
-<!-- 🌐 SOCIAL ICONS (ANIMATED) -->
-<!-- ========================================================= -->
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/khaliqhussainn">
-    <img height="55" src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/social/linkedin.gif">
-  </a>
-  <a href="mailto:khaliqhussainn@gmail.com">
-    <img height="55" src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/social/gmail.gif">
-  </a>
-  <a href="https://github.com/khaliqhussainn">
-    <img height="55" src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/social/github.gif">
-  </a>
-  <a href="https://twitter.com/">
-    <img height="55" src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/social/twitter.gif">
-  </a>
-  <a href="https://instagram.com/">
-    <img height="55" src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/social/instagram.gif">
-  </a>
-</p>
+## 🚀 About Me
+
+* 🧩 I build **Next.js, React Native, Express, Prisma, Web3** and everything in between.
+* 🎯 Currently working on: **PrepNotes**, SAP Fiori Dashboard, Resin Art Shop (Next.js 15)
+* 🤝 Open for Freelance & Remote Work — because sleep is overrated.
+* 🧠 Always learning… unless it's before 9 AM.
 
 ---
 
-# ⚙️ **Tech Stack (Category-Based + Large Icons)**  
+## 🛠️ Tech Stack (Category Based)
 
-## 🎨 **Frontend Development**
+### **Frontend**
+
+* Next.js • React.js • React Native (Expo)
+* TailwindCSS • ShadCN UI • Redux Toolkit
+* HTML • CSS • JavaScript • TypeScript
+
+### **Backend**
+
+* Node.js • Express.js
+* Prisma ORM • REST APIs • Webhooks
+
+### **Database**
+
+* PostgreSQL (Neon) • MongoDB • Firebase
+
+### **Cloud & DevOps**
+
+* Vercel • Netlify • AWS • Docker • CI/CD (GitHub Actions)
+
+### **Web3**
+
+* Solidity • Thirdweb • EVM Chains
+
+### **Tools**
+
+* Git & GitHub • Postman • Cloudinary • Figma
+
+---
+
+## 🏆 Certifications (Real Badge Links)
+
+[![AWS](https://img.shields.io/badge/AWS%20Certified-232F3E?logo=amazon-aws\&logoColor=white)](https://aws.amazon.com/certification/)
+[![Google](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?logo=google-cloud\&logoColor=white)](https://cloud.google.com/certification)
+[![Meta](https://img.shields.io/badge/Meta%20Frontend-0467FB?logo=meta\&logoColor=white)](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+
+> More badges coming soon… basically when I stop procrastinating.
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <img height="55" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" />
+<a href="https://github.com/khaliqhussain" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+<a href="https://linkedin.com/in/khaliqhussain" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="https://twitter.com" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+<a href="mailto:khaliq@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
-## 🧩 **Backend Development**
-<p align="left">
-  <img height="55" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,prisma,postgres,mongodb,mysql,supabase" />
-</p>
-
-## 📱 **Mobile App Development**
-<p align="left">
-  <img height="55" src="https://skillicons.dev/icons?i=react,expo,androidstudio" />
-</p>
-
-## ☁️ **Cloud & DevOps**
-<p align="left">
-  <img height="55" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,nginx,git,github,vercel,linux" />
-</p>
-
-## 🔐 **Cybersecurity Tools**
-<p align="left">
-  <img height="55" src="https://skillicons.dev/icons?i=burpsuite,powershell,bash" />
-</p>
-
-## 💠 **Web3 / Blockchain**
-<p align="left">
-  <img height="55" src="https://skillicons.dev/icons?i=solidity,ethereum,web3" />
-</p>
+> Warning: May respond instantly… or after 5 hours. No in-between.
 
 ---
 
-# 📌 **Featured Projects**  
-(Automatically updates using your workflow)
+## 😎 Little Bit of My Vibe
 
-### 🔥 Latest Projects  
-<!-- LATEST_PROJECTS_START -->
-⏳ Loading latest projects...
-<!-- LATEST_PROJECTS_END -->
-
----
-
-# 📝 **Latest GitHub Activity**
-(Automatically updated)
-
-<!-- LATEST_ACTIVITY_START -->
-⏳ Fetching recent activity...
-<!-- LATEST_ACTIVITY_END -->
+* My code works… until someone watches.
+* I write clean code. (Until deadlines arrive.)
+* 90% of debugging is staring at the screen.
+* I don’t make mistakes, I create *learning opportunities*.
+* "It was working yesterday" — my autobiography.
 
 ---
 
-# 📊 **GitHub Stats (Auto-Updated)**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=khaliqhussainn&theme=tokyonight" height="170"/>
-</p>
-
----
-
-# 📈 **Contribution Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-# 🏅 **Certifications & Badges**
-<p align="left">
-  <img height="40" src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img height="40" src="https://img.shields.io/badge/Google_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img height="40" src="https://img.shields.io/badge/Cybersecurity_Fundamentals-000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img height="40" src="https://img.shields.io/badge/Frontend_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
----
-
-# 🏆 **Achievements**
-- 🚀 Built large-scale production apps  
-- 💼 Experienced in Full Stack, Web3, DevOps & Cloud  
-- 🌎 Open Source Contributor  
-- 📱 Created multiple mobile apps with Expo & React Native  
-- 🛡 Cybersecurity learner & tool builder  
-- 🎯 Continuous learner, improving daily  
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/animated-dev.gif" width="400px">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khaliqhussain" height="180" />
 </p>
 
 ---
 
-### 🎯 **Thanks for visiting!**  
-If you like my work — ⭐ **Star my repos** & follow my journey!
+## 🧩 Projects
+
+### 🔹 PrepNotes – AI Study Platform
+
+### 🔹 SAP Fiori Dashboard – S/4HANA OData & Deployment
+
+### 🔹 Resin Art Shop – Next.js 15 Full E-commerce
+
+More coming soon… if caffeine allows ☕
+
+---
+
+## 🐍 A Snake Eating My Contribution Graph
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+**Thanks for scrolling. You clearly have great taste. 😌**
