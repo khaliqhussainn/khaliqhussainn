@@ -1,0 +1,22 @@
+name: Update Latest Activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update GitHub activity section
+        uses: JamesIves/github-activity-readme@v0.3.0
+        with:
+          COMMIT_MSG: "🔄 Update latest activity"
+          MAX_LINES: 10
+          ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
