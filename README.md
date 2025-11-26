@@ -1,109 +1,124 @@
-# 👋 Hey, I'm **Khaliq Hussain**
-
-### Full Stack Web • App • Web3 Developer
-
-> Building cool things on the internet while pretending I have everything under control. 😌
-> Also yes, I fix bugs I definitely did not create.
-
----
-
-## 🚀 About Me
-
-* 🧩 I build **Next.js, React Native, Express, Prisma, Web3** and everything in between.
-* 🎯 Currently working on: **PrepNotes**, SAP Fiori Dashboard, Resin Art Shop (Next.js 15)
-* 🤝 Open for Freelance & Remote Work — because sleep is overrated.
-* 🧠 Always learning… unless it's before 9 AM.
-
----
-
-## 🛠️ Tech Stack (Category Based)
-
-### **Frontend**
-
-* Next.js • React.js • React Native (Expo)
-* TailwindCSS • ShadCN UI • Redux Toolkit
-* HTML • CSS • JavaScript • TypeScript
-
-### **Backend**
-
-* Node.js • Express.js
-* Prisma ORM • REST APIs • Webhooks
-
-### **Database**
-
-* PostgreSQL (Neon) • MongoDB • Firebase
-
-### **Cloud & DevOps**
-
-* Vercel • Netlify • AWS • Docker • CI/CD (GitHub Actions)
-
-### **Web3**
-
-* Solidity • Thirdweb • EVM Chains
-
-### **Tools**
-
-* Git & GitHub • Postman • Cloudinary • Figma
-
----
-
-## 🏆 Certifications (Real Badge Links)
-
-[![AWS](https://img.shields.io/badge/AWS%20Certified-232F3E?logo=amazon-aws\&logoColor=white)](https://aws.amazon.com/certification/)
-[![Google](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?logo=google-cloud\&logoColor=white)](https://cloud.google.com/certification)
-[![Meta](https://img.shields.io/badge/Meta%20Frontend-0467FB?logo=meta\&logoColor=white)](https://www.coursera.org/professional-certificates/meta-front-end-developer)
-
-> More badges coming soon… basically when I stop procrastinating.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/khaliqhussain" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-<a href="https://linkedin.com/in/khaliqhussain" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-<a href="https://twitter.com" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-<a href="mailto:khaliq@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/banner.gif" width="100%" />
 </p>
 
-> Warning: May respond instantly… or after 5 hours. No in-between.
-
----
-
-## 😎 Little Bit of My Vibe
-
-* My code works… until someone watches.
-* I write clean code. (Until deadlines arrive.)
-* 90% of debugging is staring at the screen.
-* I don’t make mistakes, I create *learning opportunities*.
-* "It was working yesterday" — my autobiography.
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Syed Khaliq Hussain</h1>
+<h3 align="center">Full Stack Developer • Web3 • DevOps • Cybersecurity</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khaliqhussain" height="180" />
+  🚀 I build full-stack apps, experiment with Web3, break code at 3 AM,  
+  and somehow fix everything right before production 😌  
+</p>
+
+<p align="center">
+  💀 Nonchalant fact: My bugs fear me more than I fear them.  
+  😎 Sarcastic truth: If it works on my machine, that *should* count as deployment.  
+  🔥 Cringe but real: I love clean UI so much I refactor buttons for fun.  
 </p>
 
 ---
 
-## 🧩 Projects
-
-### 🔹 PrepNotes – AI Study Platform
-
-### 🔹 SAP Fiori Dashboard – S/4HANA OData & Deployment
-
-### 🔹 Resin Art Shop – Next.js 15 Full E-commerce
-
-More coming soon… if caffeine allows ☕
+## 🌐 **Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/khaliqhussainn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="mailto:khaliqhussainn@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  <a href="https://twitter.com/khaliqhussainn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
+  </a>
+  <a href="https://github.com/khaliqhussainn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+</p>
 
 ---
 
-## 🐍 A Snake Eating My Contribution Graph
+# ⚙️ **Tech Stack (Category Based)**
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+### 🎨 **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,expo,tailwind,html,css,bootstrap" height="45" />
+</p>
+
+### 🧠 **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" height="45" />
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,sqlite" height="45" />
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,github,cloudflare" height="45" />
+</p>
+
+### 🔐 **Cybersecurity & SAP**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" height="45" />
+  <img src="https://img.shields.io/badge/SAP-Fiori-blue?style=for-the-badge" height="32" />
+</p>
 
 ---
 
-**Thanks for scrolling. You clearly have great taste. 😌**
+# 📌 **Featured Projects**  
+
+### 🔥 Latest Projects  
+<!-- LATEST_PROJECTS_START -->
+⏳ Loading latest projects...
+<!-- LATEST_PROJECTS_END -->
+
+---
+
+# 🏆 **Badges & Certifications**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Essentials-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-red?style=for-the-badge&logo=hackaday" />
+</p>
+
+---
+
+# 🏆 **Achievements**
+- 🚀 Built multiple production-level apps  
+- 🔥 Active Open Source Contributor  
+- 🌎 Full Stack, Web3 & Cloud Projects  
+- ⭐ Clean UI Lover & Pixel Perfectionist  
+- 😌 Writes maintainable code (after deleting the chaos)  
+
+---
+
+# 📊 **GitHub Stats**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=khaliqhussainn&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+# 📈 **Contribution Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+# 📝 **Latest GitHub Activity**
+
+<!-- LATEST_ACTIVITY_START -->
+⏳ Fetching recent activity...
+<!-- LATEST_ACTIVITY_END -->
+
+---
+
+<p align="center">
+  Made with ❤️, caffeine, and the belief that one more commit can't break anything… probably.
+</p>
