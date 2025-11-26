@@ -29,7 +29,7 @@
 
 ## 📱 Mobile  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,expo,androidstudio" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,kotlin,flutter,androidstudio" height="45"/>
 </p>
 
 ## 🛠 Backend  
@@ -39,7 +39,7 @@
 
 ## 🚀 DevOps & Cloud  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws,cloudflare,vercel" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws,kubernetes,jenkins,gitlab,cloudflare,vercel" height="45"/>
 </p>
 
 ## 🔗 Web3  
