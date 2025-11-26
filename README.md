@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header-bg.jpg" width="100%" alt="Cyber Security Header" />
+  <img src="./header-bg.png" width="100%" alt="Cyber Security Header" />
 </div>
 
 <h1 align="center">Hi 👋, I'm <strong>Syed Khaliq Hussain</strong></h1>
