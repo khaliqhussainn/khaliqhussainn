@@ -14,9 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Install JQ
+        run: sudo apt-get install jq -y
+
       - name: Fetch latest repos
-        uses: octokit/graphql-action@v2.x
         id: repos
+        uses: octokit/graphql-action@v2.x
         with:
           query: |
             {
@@ -25,7 +28,6 @@ jobs:
                   nodes {
                     name
                     url
-                    createdAt
                     description
                   }
                 }
@@ -34,9 +36,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Update README
+      - name: Update README with latest projects
         run: |
-          repos=$(echo '${{ steps.repos.outputs.data }}' | jq -r '.viewer.repositories.nodes[] | "- [" + .name + "](" + .url + ") — " + (.description // "No description")')
+          repos=$(echo '${{ steps.repos.outputs.data }}' \
+          | jq -r '.viewer.repositories.nodes[] | "- [" + .name + "](" + .url + ") — " + (.description // "No description")')
+
           sed -i "/<!-- LATEST_PROJECTS_START -->/,/<!-- LATEST_PROJECTS_END -->/c\<!-- LATEST_PROJECTS_START -->\n$repos\n<!-- LATEST_PROJECTS_END -->" README.md
 
       - name: Commit changes
