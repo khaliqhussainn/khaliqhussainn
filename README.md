@@ -9,10 +9,9 @@
 ---
 
 ## 🚀 **About Me**
-💡 Full Stack & App Developer from India  
-🛠 Building production-level apps using **Next.js, React Native, Web3, Express, Prisma, PostgreSQL, Docker**  
-🔐 Exploring **Cloud, DevOps, Cybersecurity**  
-📌 Currently working on **PrepNotes App (Major Project)**  
+💡 Full Stack Web & App Developer  
+🛠 Building production-level apps using **Next.js, React Native, Web3, TypeScript, Prisma, PostgreSQL**  
+🔐 Exploring **SAP, DevOps, Cybersecurity**  
 🔥 Always learning, building, and shipping!
 
 ---
