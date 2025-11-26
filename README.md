@@ -1,14 +1,14 @@
-<!-- ========================================================= -->
-<!-- 🔥 PREMIUM ANIMATED HEADER -->
-<!-- ========================================================= -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Syed+Khaliq+Hussain;Full+Stack+Developer;Web3+%7C+DevOps+%7C+Cybersecurity;I+build+modern+apps+%26+cloud+solutions!" />
+<h1 align="center" style="font-size: 38px; font-weight: 900;">
+  Hi 👋, I'm <span style="color:#00E5FF;">Syed Khaliq Hussain</span>
 </h1>
+
+<h2 align="center" style="font-weight: 500;">
+  Full Stack Developer • Web3 • DevOps • Cybersecurity
+</h2>
 
 <p align="center">
   <a href="https://khaliqhussain.vercel.app">
