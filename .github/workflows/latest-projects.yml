@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install JQ
-        run: sudo apt-get install jq -y
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Fetch latest repos
         id: repos
@@ -36,12 +36,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Update README with latest projects
+      - name: Build project list
+        id: build
         run: |
-          repos=$(echo '${{ steps.repos.outputs.data }}' \
-          | jq -r '.viewer.repositories.nodes[] | "- [" + .name + "](" + .url + ") — " + (.description // "No description")')
+          echo "projects<<"EOF" >> $GITHUB_OUTPUT
+          echo '${{ steps.repos.outputs.data }}' | jq -r '
+            .viewer.repositories.nodes[] |
+            "- [\(.name)](\(.url)) — \(.description // "No description")"
+          '
+          echo "EOF" >> $GITHUB_OUTPUT
 
-          sed -i "/<!-- LATEST_PROJECTS_START -->/,/<!-- LATEST_PROJECTS_END -->/c\<!-- LATEST_PROJECTS_START -->\n$repos\n<!-- LATEST_PROJECTS_END -->" README.md
+      - name: Update README
+        run: |
+          sed -i "/<!-- LATEST_PROJECTS_START -->/,/<!-- LATEST_PROJECTS_END -->/c\\<!-- LATEST_PROJECTS_START -->\n${{ steps.build.outputs.projects }}\n<!-- LATEST_PROJECTS_END -->" README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
