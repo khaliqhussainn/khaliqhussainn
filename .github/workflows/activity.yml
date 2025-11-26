@@ -15,5 +15,5 @@ steps:
 - name: Update activity block
 uses: JamesIves/github-activity-readme@v0.3.0
 with:
-authToken: ${{ secrets.GITHUB_TOKEN }}
+authToken: ${{ secrets.GH_TOKEN }}
 output: './README.md'
