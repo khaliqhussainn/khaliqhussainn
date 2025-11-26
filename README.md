@@ -15,9 +15,8 @@
 # 🚀 About Me  
 💡 Full Stack Web & App Developer  
 🛠 Building production-grade apps using **Next.js, React Native, Web3, DevOps, Prisma, PostgreSQL**  
-🔐 Exploring **SAP, Cloud, Cybersecurity, Infrastructure Automation**  
-🔥 I don’t "learn" tech — I **weaponize it**  
-😎 Personality: *50% calm, 50% sarcasm, 100% developer*
+🔐 Exploring **SAP, Cloud, Cybersecurity, DevOps** 
+    Half of my life is waiting for “npm install”  
 
 ---
 
@@ -57,41 +56,12 @@
 
 # 🌟 Professional Highlights  
 ✔ Built multiple SaaS, dashboards, mobile apps  
-✔ Experience in **Next.js 15, Expo, Web3 integrations**  
-✔ Worked with **SAP Fiori, Launchpad deployments, and OData services**  
+✔ Experience in **Next.js , Expo, Web3 integrations**  
+✔ Worked with **SAP Fiori, SAP Build, SAP HANA and ABAP**  
 ✔ Built AI-based education tool **PrepNotes**  
-✔ Strong in backend engineering & cloud infra  
 ✔ I break things fast—but fix them faster  
-
 ---
 
-# 🎭 Developer Vibes (Honest Version)
-- I don’t chase trends; I chase **clean architecture**  
-- I commit at 3 AM because daytime is too mainstream  
-- I ship features fast & debug even faster  
-- My keyboard has seen more emotions than humans  
-- Half of my life is waiting for “npm install”  
-
----
-
-# 📌 Featured Projects  
-(Automatically updated by your workflow)
-
-### 🔥 Latest Projects  
-<!-- LATEST_PROJECTS_START -->
-⏳ Loading latest projects...
-<!-- LATEST_PROJECTS_END -->
-
----
-
-# 📝 Latest GitHub Activity  
-(Updates every 12 hours)
-
-<!-- LATEST_ACTIVITY_START -->
-⏳ Fetching recent activity...
-<!-- LATEST_ACTIVITY_END -->
-
----
 
 # 📊 GitHub Stats  
 <p align="center">
@@ -112,7 +82,6 @@
 - 🎯 Built production apps used by real users  
 - 🧩 Experienced in full-stack, DevOps, mobile & Web3  
 - ⭐ Contributed to open-source projects  
-- 🚀 Solved problems others were scared to touch  
 - 🏅 Automation addict — if it can be automated, I’ll automate it  
 
 ---
@@ -125,40 +94,20 @@
   <img src="https://img.shields.io/badge/Cybersecurity-Ethical_Hacking-9C27B0"/>
 </p>
 
-*(Add real ones later if needed)*
 
 ---
 
 # 👷 Currently Building  
-🚧 **PrepNotes** — AI-powered education app  
+🚧 PrepNotes — AI-powered education app  
 🚧 SAP Fiori Launchpad Dashboard  
-🚧 My own Developer Portfolio (coming soon 👀)
+🚧 New Startup
 
 ---
-
-# 🤝 Why Work With Me?  
-- I don’t just code — I **solve problems**  
-- I think in systems, not files  
-- I ship fast without breaking production (mostly 😄)  
-- I write code your future team won’t hate  
-- If something can be optimized, I will **obsess** over it  
-
----
-
-# 🔢 Fun Developer Stats  
-- ⚡ Number of times I said “one last fix”: **∞**  
-- 🛠 Bugs fixed at 2 AM: **too many**  
-- 🚀 Projects started: **many**  
-- 💤 Projects finished: **also many, I’m not THAT developer 😎**  
-
----
-
-# 😌 My Chill Philosophy  
+ 
 > **“Write code like poetry, deploy like chaos, debug like Sherlock.”**
 
 ---
 
-# 🔥 Ego Boost Table (because why not?)
 
 | Trait | Rating |
 |------|--------|
@@ -167,6 +116,25 @@
 | Debugging Patience | ⭐⭐⭐ |
 | Creativity | ⭐⭐⭐⭐⭐ |
 | Ability to forget semicolons | ⭐⭐⭐⭐⭐ |
+
+---
+
+# 📌 Featured Projects  
+(Automatically updated by your workflow)
+
+### 🔥 Latest Projects  
+<!-- LATEST_PROJECTS_START -->
+⏳ Loading latest projects...
+<!-- LATEST_PROJECTS_END -->
+
+---
+
+# 📝 Latest GitHub Activity  
+(Updates every 12 hours)
+
+<!-- LATEST_ACTIVITY_START -->
+⏳ Fetching recent activity...
+<!-- LATEST_ACTIVITY_END -->
 
 ---
 
