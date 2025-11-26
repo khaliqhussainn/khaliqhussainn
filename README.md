@@ -1,161 +1,126 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/banner.gif" width="100%"/>
-</p>
+<div align="center">
+  <img src="./assets/header-bg.jpg" width="100%" alt="Cyber Security Header" />
+</div>
 
 <h1 align="center">Hi 👋, I'm <strong>Syed Khaliq Hussain</strong></h1>
-<h3 align="center">Full Stack Developer • Web3 • DevOps • Cybersecurity</h3>
 
 <p align="center">
-  <i>“Just a guy turning caffeine into clean code and bugs into features.”</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+%E2%80%A2+DevOps+%E2%80%A2+Cybersecurity;Turning+caffeine+into+code..." alt="Typing SVG" />
+  </a>
 </p>
 
----
-
-# 🚀 About Me  
-💡 Full Stack Web & App Developer  
-🛠 Building production-grade apps using **Next.js, React Native, Web3, DevOps, Prisma, PostgreSQL**  
-🔐 Exploring **SAP, Cloud, Cybersecurity, DevOps** 
-    Half of my life is waiting for “npm install”  
-
----
-
-# ⚙️ Tech Stack (Categorized)
-
-## 💻 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,materialui,html,css,js,ts" height="45"/>
-</p>
-
-## 📱 Mobile  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,kotlin,flutter,androidstudio" height="45"/>
-</p>
-
-## 🛠 Backend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,redis" height="45"/>
-</p>
-
-## 🚀 DevOps & Cloud  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws,kubernetes,jenkins,gitlab,cloudflare,vercel" height="45"/>
-</p>
-
-## 🔗 Web3  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,web3" height="45"/>
-</p>
-
-## 🧰 Other Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,postman,linux" height="45"/>
-</p>
-
----
-
-# 🌟 Professional Highlights  
-✔ Built multiple SaaS, dashboards, mobile apps  
-✔ Experience in **Next.js , Expo, Web3 integrations**  
-✔ Worked with **SAP Fiori, SAP Build, SAP HANA and ABAP**  
-✔ Built AI-based education tool **PrepNotes**  
-✔ I break things fast—but fix them faster  
----
-
-
-# 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=khaliqhussainn&theme=tokyonight" height="170"/>
+  <i>“Write code like poetry, deploy like chaos, debug like Sherlock.”</i>
 </p>
 
----
-
-# 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=react-dark&area=true&hide_border=true" />
+  <a href="https://linkedin.com/in/khaliqhussainn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:khaliqhussainn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🏆 Achievements  
-- 🎯 Built production apps used by real users  
-- 🧩 Experienced in full-stack, DevOps, mobile & Web3  
-- ⭐ Contributed to open-source projects  
-- 🏅 Automation addict — if it can be automated, I’ll automate it  
+## 🚀 About Me
+
+> 💡 **Full Stack Web & App Developer** building production-grade apps using **Next.js, React Native, & Web3**.  
+> 🔐 Exploring **SAP, Cloud, Cybersecurity, & DevOps**.  
+> ⚡ *Half of my life is waiting for “npm install”*
 
 ---
 
-# 🎓 Certifications & Badges  
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP-Fiori_Developer-0FAAFF?logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Cloud_Engineer-4285F4?logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Ethical_Hacking-9C27B0"/>
-</p>
+## 🛠 Tech Stack
 
+<div align="center">
 
----
+| **Frontend** | **Backend** | **Mobile** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,redis" height="40"/> | <img src="https://skillicons.dev/icons?i=react,kotlin,flutter" height="40"/> |
 
-# 👷 Currently Building  
-🚧 PrepNotes — AI-powered education app  
-🚧 SAP Fiori Launchpad Dashboard  
-🚧 New Startup
+| **DevOps & Cloud** | **Web3** | **Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker,k8s,aws,githubactions,vercel" height="40"/> | <img src="https://skillicons.dev/icons?i=solidity,web3" height="40"/> | <img src="https://skillicons.dev/icons?i=git,figma,linux,postman" height="40"/> |
 
----
- 
-> **“Write code like poetry, deploy like chaos, debug like Sherlock.”**
+</div>
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=khaliqhussainn&theme=radical&hide_border=true&background=0d1117" height="160"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=react-dark&area=true&hide_border=true&color=f72c5b" width="100%"/>
+</div>
+
+---
+
+## 🌟 Professional Highlights & Achievements
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🏆 Achievements</h3>
+      <ul>
+        <li>🎯 Built production apps used by real users</li>
+        <li>🧩 Experienced in full-stack, DevOps, mobile & Web3</li>
+        <li>⭐ Contributed to open-source projects</li>
+        <li>🏅 Automation addict — if it can be automated, I’ll automate it</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+       <h3>👷 Currently Building</h3>
+       <ul>
+        <li>🚧 <b>PrepNotes</b> — AI-powered education app</li>
+        <li>🚧 <b>SAP Fiori</b> Launchpad Dashboard</li>
+        <li>🚧 New Stealth Startup</li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-Fiori_Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-Ethical_Hacking-9C27B0?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+</div>
+
+---
+
+## ⚡ Developer Traits
+
+<div align="center">
 
 | Trait | Rating |
 |------|--------|
-| Code Quality | ⭐⭐⭐⭐⭐ |
-| Dark Mode Obsession | ⭐⭐⭐⭐⭐ |
-| Debugging Patience | ⭐⭐⭐ |
-| Creativity | ⭐⭐⭐⭐⭐ |
-| Ability to forget semicolons | ⭐⭐⭐⭐⭐ |
+| **Code Quality** | ⭐⭐⭐⭐⭐ |
+| **Dark Mode Obsession** | ⭐⭐⭐⭐⭐ |
+| **Debugging Patience** | ⭐⭐⭐ |
+| **Creativity** | ⭐⭐⭐⭐⭐ |
+| **Semicolons?** | *Optional* |
+
+</div>
 
 ---
 
-# 📌 Featured Projects  
-(Automatically updated by your workflow)
-
-### 🔥 Latest Projects  
-<!-- LATEST_PROJECTS_START -->
-⏳ Loading latest projects...
-<!-- LATEST_PROJECTS_END -->
-
----
-
-# 📝 Latest GitHub Activity  
-(Updates every 12 hours)
-
-<!-- LATEST_ACTIVITY_START -->
-⏳ Fetching recent activity...
-<!-- LATEST_ACTIVITY_END -->
-
----
-
-# 🔗 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/khaliqhussainn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="mailto:khaliqhussainn@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-  <a href="https://github.com/khaliqhussainn">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-  </a>
-</p>
-
----
-
+## 📌 Featured Projects
 <p align="center">
+  <br>
   <i>Thanks for scrolling — you're officially a real one 😎</i>
 </p>
