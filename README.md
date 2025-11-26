@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Khaliq Hussain</h1>
-<h3 align="center">Full Stack • App Developer • Web3 • Cloud • Cybersecurity</h3>
+<h1 align="center">Hi 👋, I'm Syed Khaliq Hussain</h1>
+<h3 align="center">Full Stack Developer • Web3 • DevOps • Cybersecurity</h3>
 
 ---
 
@@ -35,7 +35,6 @@
 ---
 
 # 📌 **Featured Projects**  
-(Automatically updates using your workflow)
 
 ### 🔥 Latest Projects  
 <!-- LATEST_PROJECTS_START -->
@@ -44,7 +43,7 @@
 
 ---
 
-# 📊 **GitHub Stats (Auto-updated)**  
+# 📊 **GitHub Stats **  
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -64,7 +63,6 @@
 ---
 
 # 📝 **Latest GitHub Activity**
-(Automatically updated every 30 minutes)
 
 <!-- LATEST_ACTIVITY_START -->
 ⏳ Fetching recent activity...
@@ -80,18 +78,4 @@
 - ⭐ Continuous Learner  
 
 ---
-
-## 🧩 Fun Fact
-✨ I turn **ideas into production-ready apps**.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/animated-dev.gif" width="400px">
-</p>
-
----
-
-### 🎯 **Thank you for visiting!**
-⭐ Feel free to **star** my repositories and follow my work!
 
