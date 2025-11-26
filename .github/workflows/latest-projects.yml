@@ -1,19 +1,45 @@
 name: Update Latest Projects
-on:
-schedule:
-- cron: '0 */24 * * *'
-workflow_dispatch:
 
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-update-projects:
-runs-on: ubuntu-latest
-steps:
-- uses: actions/checkout@v3
+  update-projects:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
+      - name: Fetch latest repos
+        uses: octokit/graphql-action@v2.x
+        id: repos
+        with:
+          query: |
+            {
+              viewer {
+                repositories(first: 5, orderBy: {field: CREATED_AT, direction: DESC}) {
+                  nodes {
+                    name
+                    url
+                    createdAt
+                    description
+                  }
+                }
+              }
+            }
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-- name: Update project list
-uses: Kholid060/autoupdate-projects-readme@v1.0.0
-with:
-github_token: ${{ secrets.GITHUB_TOKEN }}
-output: './README.md'
+      - name: Update README
+        run: |
+          repos=$(echo '${{ steps.repos.outputs.data }}' | jq -r '.viewer.repositories.nodes[] | "- [" + .name + "](" + .url + ") — " + (.description // "No description")')
+          sed -i "/<!-- LATEST_PROJECTS_START -->/,/<!-- LATEST_PROJECTS_END -->/c\<!-- LATEST_PROJECTS_START -->\n$repos\n<!-- LATEST_PROJECTS_END -->" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🔄 Update latest projects"
