@@ -1,135 +1,124 @@
-<!-- Animated Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/banner.gif" width="100%"/>
-</p>
+# Hi there, I'm Khaliq Hussain 👋
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00C4FF;">Syed Khaliq Hussain</span></h1>
-<h3 align="center">Full Stack Developer • Web3 • DevOps • Cybersecurity</h3>
+<div align="center">
 
----
+## 🚀 Full-Stack | Web3 | Mobile App Developer
 
-# 🌟 **About Me**
+### Crafting Modern Digital Experiences
 
-💡 Passionate **Full Stack Developer** from India  
-🛠 Building production-grade apps using **Next.js, React Native, Web3, DevOps & Cloud**  
-🚀 Experienced with **TypeScript, Prisma, PostgreSQL, Docker, CI/CD**  
-🔐 Exploring **Cybersecurity & SAP Fiori**  
-📌 Creator of **PrepNotes App (Major Project)**  
-🔥 Always improving, always shipping.  
+🌗 **Dark / Light Theme Supported (Auto via GitHub)**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+and+Blockchain+Enthusiast;React+%2F+Next.js+Expert;Building+Modern+Apps+with+Love" />
+
+</div>
 
 ---
 
-# 🌐 **Connect With Me**
+## 🌊 Custom Wave Banner
 
-<p align="center">
-  <a href="https://linkedin.com/in/khaliqhussainn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  <a href="mailto:khaliqhussainn@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
-  <a href="https://x.com">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
-  </a>
-  <a href="https://github.com/khaliqhussainn">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
 
 ---
 
-# ⚙️ **Tech Stack (Modern & Premium)**
+## 🧰 Tech Stack
 
-### ⚡ Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,js,html,css" height="55"/>
-</p>
+### 🖥️ Frontend
 
-### 📱 Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo" height="55"/>
-</p>
+* React.js
+* Next.js 15
+* React Native (Expo)
+* TailwindCSS
+* TypeScript
+* Redux Toolkit
+* ShadCN UI
+* Framer Motion
 
-### 🛠 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,firebase,graphql" height="55"/>
-</p>
+### ⚙️ Backend
 
-### 🚀 DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,nginx,aws,cloudflare,vercel" height="55"/>
-</p>
+* Node.js
+* Express.js
+* Prisma ORM
+* REST APIs
+* WebSockets
+* JWT Authentication
 
-### 🔐 Cybersecurity
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,powershell" height="55"/>
-</p>
+### 📦 Databases & Cloud
 
-### 🌐 Blockchain / Web3
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity" height="55"/>
-</p>
+* PostgreSQL
+* MongoDB
+* Neon DB
+* PlanetScale
+* Supabase
+* Firebase
+* Cloudinary
 
----
+### 🧪 DevOps & Tools
 
-# 📌 **Featured Projects (Auto Updated)**
+* Docker
+* GitHub Actions (CI/CD)
+* Kubernetes (kubectl)
+* Vercel / Netlify
+* Postman
+* Linux / Shell
 
-### 🔥 Latest Projects  
-<!-- LATEST_PROJECTS_START -->
-⏳ Loading latest projects...
-<!-- LATEST_PROJECTS_END -->
+### 🔐 Web3
 
----
-
-# 📊 **GitHub Stats (Premium Theme)**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaliqhussainn&show_icons=true&theme=tokyonight" height="175"/>
-  <img src="https://streak-stats.demolab.com?user=khaliqhussainn&theme=tokyonight" height="175"/>
-</p>
+* Solidity
+* Hardhat
+* MetaMask Integration
+* Smart Contract Deployment
 
 ---
 
-# 📈 **Contribution Activity Graph**
+## 💼 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliqhussainn&theme=react-dark&area=true&hide_border=true"/>
-</p>
+### 📘 **PrepNotes – Study App**
 
----
+> Course notes, PYQs, AI Chatbot, Study planner, Roadmaps, Document upload
 
-# 📝 **Latest GitHub Activity**
+### ✍️ **SignFlow – Digital Signature Platform**
 
-<!-- LATEST_ACTIVITY_START -->
-⏳ Fetching recent activity...
-<!-- LATEST_ACTIVITY_END -->
+> Upload, invite, and sign documents securely with audit trail
 
----
+### 🛍️ **ArtGlow – Resin Art Shop (Next.js)**
 
-# 🏆 **Achievements**
-
-- 🚀 Built production-grade applications  
-- 💼 Strong experience with **Full Stack, DevOps & Cloud**  
-- 🌎 Multiple live projects deployed on Vercel & AWS  
-- 🔥 Open source contributor  
-- 📚 Fast learner & always exploring new tech  
+> Full e‑commerce with cart, checkout & admin controls
 
 ---
 
-# 🎨 **Fun Animations**
+## 🏆 Certifications & Badges
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khaliqhussainn/khaliqhussainn/main/assets/animated-dev.gif" width="450px"/>
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Essentials-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google-UX%20Design-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-Certified-61DAFB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square" />
 </p>
 
 ---
 
-# 🎯 **Fun Fact**
+## 🔥 GitHub Stats
 
-✨ I turn **ideas into production-ready apps** — fast.
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=khaliqhussain\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaliqhussain\&layout=compact\&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=khaliqhussain\&theme=tokyonight)
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ **If you like my work, consider starring my repositories!**  
-</p>
+## 📫 Connect With Me
+
+* 🔗 Portfolio: *coming soon*
+* 💼 LinkedIn
+* 🐙 GitHub
+
+---
+
+## ⭐ Fun Fact
+
+> I break things, fix them, and then build something better 😄
