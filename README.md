@@ -33,7 +33,7 @@
 
 | **DevOps & Cloud** | **Web3** | **Tools** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=docker,k8s,aws,githubactions,vercel" height="40"/> | <img src="https://skillicons.dev/icons?i=solidity,web3" height="40"/> | <img src="https://skillicons.dev/icons?i=git,figma,linux,postman" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=docker,k8s,aws,githubactions,vercel" height="40"/> | <img src="https://skillicons.dev/icons?i=solidity,ethereum,rust,vyper" height="40"/> | <img src="https://skillicons.dev/icons?i=git,figma,linux,postman" height="40"/> |
 
 </div>
 
