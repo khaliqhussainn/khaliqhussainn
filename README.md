@@ -2,6 +2,8 @@
   <img src="./banner.svg" width="100%" alt="Header Banner" />
 </div>
 
+<br />
+
 <p align="center">
   <a href="https://linkedin.com/in/khaliqhussainn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,6 +14,12 @@
   <a href="https://github.com/khaliqhussainn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <samp>
+    <i>(P.S. Don't judge the commit graph... 80% of my work is in private repos 🤫)</i>
+  </samp>
 </p>
 
 ---
@@ -27,11 +35,11 @@
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Mobile** |
+| **Frontend 🎨** | **Backend 🗄️** | **Mobile 📱** |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,redis" height="40"/> | <img src="https://skillicons.dev/icons?i=react,kotlin,flutter" height="40"/> |
 
-| **DevOps & Cloud** | **Web3** | **Tools** |
+| **DevOps & Cloud ☁️** | **Web3 🔗** | **Tools 🛠️** |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=docker,k8s,aws,githubactions,vercel" height="40"/> | <img src="https://skillicons.dev/icons?i=solidity,rust" height="40"/> | <img src="https://skillicons.dev/icons?i=git,figma,linux,postman" height="40"/> |
 
@@ -61,17 +69,17 @@
       <h3>🌟 Achievements</h3>
       <ul>
         <li>🎯 Built production apps used by real users</li>
-        <li>🧩 Experienced in full-stack, DevOps, mobile & Web3</li>
-        <li>⭐ Contributed to open-source projects</li>
-        <li>🏅 Automation addict — if it can be automated, I’ll automate it</li>
+        <li>🧩 Experienced in Full-Stack, DevOps, Mobile & Web3</li>
+        <li>⭐ Active Contributor to Open-Source</li>
+        <li>🏅 <b>Automation Addict</b> — <i>"If I have to do it twice, I write a script."</i></li>
       </ul>
     </td>
     <td valign="top" width="50%">
        <h3>👷 Currently Building</h3>
        <ul>
-        <li>🚧 <b>PrepNotes</b> — AI-powered education app</li>
-        <li>🚧 <b>SAP Fiori</b> Launchpad Dashboard</li>
-        <li>🚧 New Stealth Startup</li>
+        <li>🧬 <b>PrepNotes</b> — AI-powered education app</li>
+        <li>🏢 <b>SAP Fiori</b> — Enterprise Launchpad Dashboard</li>
+        <li>👻 <b>Stealth Startup</b> — <i>Loading...</i></li>
        </ul>
     </td>
   </tr>
@@ -90,24 +98,57 @@
 
 ---
 
-# ⚡ Developer Traits
+# ⚡ Character Stats
 
-<div align="center">
-
-| Trait | Rating |
-|------|--------|
-| **Code Quality** | ⭐⭐⭐⭐⭐ |
-| **Dark Mode Obsession** | ⭐⭐⭐⭐⭐ |
-| **Debugging Patience** | ⭐⭐⭐ |
-| **Creativity** | ⭐⭐⭐⭐⭐ |
-| **Semicolons?** | *Optional* |
-
+<div align="center"> 
+  <code>
+    Code Quality.......[██████████] 100%<br/>
+    Dark Mode..........[██████████] 100%<br/>
+    Creativity.........[████████░░] 80%<br/>
+    Caffeine Level.....[██████████] 110%<br/>
+    Semicolons.........[██░░░░░░░░] 20% (Optional)<br/>
+  </code>
 </div>
 
 ---
 
 # 📌 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 PrepNotes (AI)</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,openai,tailwind" height="30"/>
+      </div>
+      <br>
+      <p align="center">
+        AI-powered education tool that generates notes, quizzes, and summaries for students instantly.
+        <br/><br/>
+        <a href="https://github.com/khaliqhussainn">
+          <img src="https://img.shields.io/badge/View_Project-FF4D6D?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔗 Web3 Marketplace</h3>
+      <div align="center">
+         <img src="https://skillicons.dev/icons?i=react,solidity,ethereum,ipfs" height="30"/>
+      </div>
+      <br>
+      <p align="center">
+         Decentralized marketplace for trading NFTs with secure wallet authentication.
+        <br/><br/>
+        <a href="https://github.com/khaliqhussainn">
+          <img src="https://img.shields.io/badge/View_Project-FF4D6D?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <p align="center">
-  <br>
   <i>Thanks for scrolling — you're officially a real one 😎</i>
 </p>
