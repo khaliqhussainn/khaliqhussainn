@@ -18,7 +18,7 @@
 
 <p align="center">
   <samp>
-    <i>(P.S. Don't judge the commit graph... 80% of my work is in private repos 🤫)</i>
+    <i>(P.S. Don't judge my projects... 80% of my real work is in private repos 🤫)</i>
   </samp>
 </p>
 
@@ -98,15 +98,15 @@
 
 ---
 
-# ⚡ Character Stats
+# ⚡ Stats
 
 <div align="center"> 
   <code>
-    Code Quality.......[██████████] 100%<br/>
-    Dark Mode..........[██████████] 100%<br/>
-    Creativity.........[████████░░] 80%<br/>
-    Caffeine Level.....[██████████] 110%<br/>
-    Semicolons.........[██░░░░░░░░] 20% (Optional)<br/>
+    Code Quality.......    [██████████] 100%<br/>
+    Dark Mode..........    [██████████] 100%<br/>
+    Creativity.........    [████████░░] 80%<br/>
+    Caffeine Level.....    [██████████] 110%<br/>
+    Semicolons.........    [██░░░░░░░░] 20% <br/>
   </code>
 </div>
 
@@ -117,9 +117,9 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 PrepNotes (AI)</h3>
+      <h3 align="center">🧠 PrepNotes </h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,openai,tailwind" height="30"/>
+        <img src="https://skillicons.dev/icons?i=nextjs,typescript,openai,tailwind,postresql" height="30"/>
       </div>
       <br>
       <p align="center">
@@ -133,7 +133,7 @@
     <td width="50%">
       <h3 align="center">🔗 Web3 Marketplace</h3>
       <div align="center">
-         <img src="https://skillicons.dev/icons?i=react,solidity,ethereum,ipfs" height="30"/>
+         <img src="https://skillicons.dev/icons?i=next,solidity,postgresql,typescript" height="30"/>
       </div>
       <br>
       <p align="center">
